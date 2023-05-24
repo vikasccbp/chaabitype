@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  background-color: #000;
+  height: 100vh;
+  font-family: "Roboto";
+  color: #ffffff;
+  background-size: cover;
+  font-size: 24px;
+  padding: 30px;
+}
+
+.button{
+  font-size: 24px;
+  font-family: "Roboto";
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.nextkey{
+  margin-bottom: 20px;
+  font-size: 24px;
+  background-color: #61dafb;
+  font-family: "Roboto";
+
+}
+
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+input[type='text'] {
+  font-size: 24px;
+  padding: 10px;
+  text-align: center;
+}
